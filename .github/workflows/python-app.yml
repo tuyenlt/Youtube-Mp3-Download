@@ -1,4 +1,4 @@
-name: Fast API docker build push
+name: Fast API docker
 on:
   push:
     branches: [ master ]
